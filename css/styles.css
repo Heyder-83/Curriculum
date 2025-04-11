@@ -29,7 +29,7 @@ h1, h2{
 
 .container{
     display: flex;
-    max-width: 50%;
+    max-width: 80%;
     margin: 40px auto;
     gap: 25px;
     padding: 20px;
